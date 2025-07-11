@@ -19,7 +19,7 @@ data = data.rename(columns={
 # =====================
 # HEADER
 # =====================
-st.title("🌦️ Dashboard Analisis Iklim Kalimantan Selatan")
+st.title("🌦️ Dashboard Analisis Iklim Kalimantan Timur")
 st.markdown("Visualisasi data iklim tahunan berdasarkan parameter suhu, hujan, kelembaban, angin, dan radiasi matahari.")
 
 # =====================
